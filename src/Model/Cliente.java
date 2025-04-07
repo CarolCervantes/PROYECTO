@@ -1,6 +1,17 @@
-import java.util.*;
-import java.util.stream.Collectors;
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package Model;
 
+import java.util.List;
+import java.util.Date;
+
+/**
+ *
+ * @author ASUS
+ */
+// public class Cliente extend Usuario
 public class Cliente {
     private final String nombre;
     private final String telefono;
@@ -72,4 +83,5 @@ public class Cliente {
     // Getters
     public String getNombre() { return nombre; }
     public String getTelefono() { return telefono; }
+    
 }

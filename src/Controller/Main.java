@@ -1,8 +1,25 @@
-import java.util.*;
-import java.text.*;
-import java.util.stream.Collectors;
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package Controller;
 
-public class MainInteractivo {
+import Model.Administrador;
+import Model.Cliente;
+import Model.Mesa;
+import Model.Reserva;
+import Model.Restaurante;
+import java.util.List;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Scanner;
+
+/**
+ *
+ * @author ASUS
+ */
+public class Main {
     private static Restaurante restaurante;
     private static Scanner scanner;
     private static SimpleDateFormat sdf;
