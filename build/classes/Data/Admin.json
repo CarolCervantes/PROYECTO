@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "nombre": "Camil",
+      "apellidos":"Gutierrez",
+      "correo": "Camilo@gmail.com",
+      "contrasena": "987654321",
+      "telefono": "3059876324"
+    },
+    {
+      "id": 2,
+      "nombre": "Celeste Sofia",
+      "apellidos":"Andrade Perez",
+      "correo": "maria@gmail.com",
+      "contraseña": "abcd3216",
+      "telefono": "3019856247"
+    },
+    {
+        "id": 3,
+        "nombre": "Karina ",
+        "apellidos":"Santana",
+        "correo": "Karina@gmail.com",
+        "contraseña": "Karina78965",
+        "telefono": "3046981234"
+      }
+  ]

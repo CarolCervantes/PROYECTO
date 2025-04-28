@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellidos":"Perez Lopez",
+      "correo": "juan@gmail.com",
+      "contrasena": "12345678",
+      "telefono": "3226985741"
+    },
+    {
+      "id": 2,
+      "nombre": "Maria Jose",
+      "apellidos":"Torres Jimenez",
+      "correo": "maria@gmail.com",
+      "contraseña": "abcd1213",
+      "telefono": "3019856247"
+    },
+    {
+        "id": 3,
+        "nombre": "Mateo",
+        "apellidos":"Rodriguez",
+        "correo": "mateo@gmail.com",
+        "contraseña": "Mateo123",
+        "telefono": "3017894561"
+      }
+  ]
