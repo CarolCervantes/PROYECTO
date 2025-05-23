@@ -1,10 +1,10 @@
 [
     {
       "id": 1,
-      "nombre": "Camil",
+      "nombre": "Camilo",
       "apellidos":"Gutierrez",
       "correo": "Camilo@gmail.com",
-      "contrasena": "987654321",
+      "contraseña": "987654321",
       "telefono": "3059876324"
     },
     {

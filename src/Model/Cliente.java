@@ -13,7 +13,12 @@ package Model;
 
 public class Cliente extends Usuario{
 
-    public Cliente(String id, String nombre, String apellidos, String contrasena, String correo, String telefono) {
-        super(id, nombre, apellidos, contrasena, correo, telefono);
+    
+    public Cliente(String id, String nombre, String apellidos, String contraseña, String correo, String telefono) {
+        super(id, nombre, apellidos, contraseña, correo, telefono);
     }
+    
+    public Cliente() {
+    super();
+}
 }

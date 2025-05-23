@@ -18,6 +18,7 @@ public class Usuario {
     //
            
     public Usuario(String id, String nombre, String apellidos, String contraseña, String correo,String telefono){
+        this.id = id;
         this.nombre = nombre;
         this.apellidos = apellidos;
         this.contraseña = contraseña;
@@ -25,6 +26,10 @@ public class Usuario {
         this.telefono = telefono;
         
     }
+    public Usuario() {
+    
+    }
+
     
     public String getId(){
         return id;

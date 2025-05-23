@@ -1,0 +1,32 @@
+[
+  {
+    "nombreCliente": "Carol",
+    "apellidoCliente": "Cervantes",
+    "telefonoCliente": "3019568742",
+    "emailCliente": "carolcevantez@gmail.com",
+    "fecha": "2025-05-01",
+    "hora": "20:00",
+    "cantidadPersonas": 4,
+    "numeroMesa": "5"
+  },
+  {
+    "nombreCliente": "Boris",
+    "apellidoCliente": "Jimenez",
+    "telefonoCliente": "3106547893",
+    "emailCliente": "borisJimenez@gmail.com",
+    "fecha": "25-05-21",
+    "hora": "11:00",
+    "cantidadPersonas": 4,
+    "numeroMesa": "3"
+  },
+  {
+    "nombreCliente": "Jeovanne",
+    "apellidoCliente": "Jimenez",
+    "telefonoCliente": "36525639874",
+    "emailCliente": "jeovanne@gmail.com",
+    "fecha": "25-05-21",
+    "hora": "11:00",
+    "cantidadPersonas": 3,
+    "numeroMesa": "Mesa 2"
+  }
+]

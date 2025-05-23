@@ -3,16 +3,26 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/View/RegistroAdmin.java</file>
-            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/Model/Usuario.java</file>
-            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/View/PrincipalAdmin.java</file>
-            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/View/Reservas.java</file>
-            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/View/ReservaMesas.java</file>
-            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/View/PrincipalCliente.java</file>
-            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/View/MenuOpciones.java</file>
-            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/View/Bienvenida.java</file>
-            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/View/LoginAdmin.java</file>
-            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/Model/Cliente.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/View/Platos.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/Controller/MesaController.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/Model/SessionAdmin.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/Controller/AdminController.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/View/ReservaMesas.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/DAO/AdminDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/DAO/ReservasDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/Data/Reservas.json</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/DAO/ReservaSalonDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/Model/Session.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/Model/Administrador.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/Model/Usuario.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/View/Login.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/View/PrincipalAdmin.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/Data/Clientes.json</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/View/ClienteFrame.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/Controller/ClienteController.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/Model/Cliente.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/DAO/ClienteDao.java</file>
+            <file>file:/C:/Users/ASUS/Documents/ProyectoAula%20(4)/ProyectoAula/src/Controller/ReservasController.java</file>
         </group>
     </open-files>
 </project-private>
