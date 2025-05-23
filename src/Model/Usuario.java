@@ -9,19 +9,32 @@ package Model;
  * @author ASUS
  */
 public class Usuario {
+<<<<<<< HEAD
     private String id;
+=======
+    private String user;
+>>>>>>> 2271861ab0ec6047f06121967f4d036459c1848b
     private String nombre;
     private String apellidos;
     private String contraseña;
     private String correo;
+<<<<<<< HEAD
     private String telefono;
     //
            
     public Usuario(String id, String nombre, String apellidos, String contraseña, String correo,String telefono){
+=======
+    private String tipo;
+    private String telefono;
+           
+    public Usuario(String user, String nombre, String apellidos, String contraseña, String correo, String tipo, String telefono){
+        this.user = user;
+>>>>>>> 2271861ab0ec6047f06121967f4d036459c1848b
         this.nombre = nombre;
         this.apellidos = apellidos;
         this.contraseña = contraseña;
         this.correo = correo;
+<<<<<<< HEAD
         this.telefono = telefono;
         
     }
@@ -34,6 +47,16 @@ public class Usuario {
         return id;
     }
     
+=======
+        this.tipo = tipo;
+        this.telefono = telefono;
+        
+    }
+    
+    public String getUser(){
+        return user;
+    }
+>>>>>>> 2271861ab0ec6047f06121967f4d036459c1848b
     
     public String getNombre() {
         return nombre;
@@ -51,11 +74,19 @@ public class Usuario {
         return contraseña;
     }
 
+<<<<<<< HEAD
    
+=======
+    public String getTipo() {
+        return tipo;
+    }
+    
+>>>>>>> 2271861ab0ec6047f06121967f4d036459c1848b
     public String getTelefono(){
         return telefono;
     }
     
+<<<<<<< HEAD
      public void setId(String id) {
         this.id = id;
     }
@@ -80,4 +111,9 @@ public class Usuario {
         this.telefono = telefono;
     }
     
+=======
+    public void MostrarInfo(){
+        
+    }
+>>>>>>> 2271861ab0ec6047f06121967f4d036459c1848b
 }

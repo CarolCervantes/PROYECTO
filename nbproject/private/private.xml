@@ -3,6 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/Controller/MesaController.java</file>
             <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/Model/Mesa.java</file>
             <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/Model/Reserva.java</file>
@@ -16,6 +17,12 @@
             <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/View/ClienteFrame.java</file>
             <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/Controller/SalonesController.java</file>
             <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/View/ReservaMesas.java</file>
+=======
+            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/Model/Usuario.java</file>
+            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/View/Login.java</file>
+            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/Model/Cliente.java</file>
+            <file>file:/C:/Users/ASUS/Documents/MARIA%20PAULINA/ProyectoAula/src/Model/Administrador.java</file>
+>>>>>>> 2271861ab0ec6047f06121967f4d036459c1848b
         </group>
     </open-files>
 </project-private>
