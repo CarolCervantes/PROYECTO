@@ -1,0 +1,44 @@
+[
+  {
+    "cedula": "1452367890",
+    "nombre": "Fernanda",
+    "apellidos": "Hernandez",
+    "email": "fernanda@gmail.com",
+    "telefono": "3226565572",
+    "invitados": "65",
+    "fecha": "25-05-15",
+    "hora": "15:00",
+    "salon": "Salon A"
+  },
+  {
+    "cedula": "1067867993",
+    "nombre": "Alejandra",
+    "apellidos": "Perez Jimenez",
+    "email": "alejandra@gmail.com",
+    "telefono": "3013539567",
+    "invitados": "50",
+    "fecha": "25-06-15",
+    "hora": "9:00 AM",
+    "salon": "Salon A"
+  },
+  {
+    "cedula": "Maria",
+    "nombre": "Andrade ",
+    "apellidos": "maria@gmail.com",
+    "email": "64564646",
+    "telefono": "2013654789",
+    "invitados": "25-07-03",
+    "fecha": "Salon B",
+    "hora": "9:00 AM",
+    "salon": "45"
+  },
+  {
+    "cedula": "Alejandra",
+    "nombre": "Jimenez",
+    "apellidos": "alejandra@gmail.com",
+    "email": "3013539567",
+    "telefono": "1067865950",
+    "fecha": "Salon C",
+    "salon": "60"
+  }
+]

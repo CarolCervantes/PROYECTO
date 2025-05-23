@@ -16,8 +16,8 @@ import java.util.stream.Collectors;
 public class Administrador extends Usuario{
     
      
-     public Administrador(String id, String nombre, String apellidos, String contrasena, String correo, String telefono) {
-        super(id, nombre, apellidos, contrasena, correo, telefono);
+     public Administrador(String id, String nombre, String apellidos, String contraseña, String correo, String telefono) {
+        super(id, nombre, apellidos, contraseña, correo, telefono);
       
     }
    

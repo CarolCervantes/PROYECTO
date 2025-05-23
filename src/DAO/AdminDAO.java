@@ -5,13 +5,13 @@
 package DAO;
 
 import Model.Administrador;
-import Model.Cliente;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -19,33 +19,40 @@ import java.util.List;
  * @author ASUS
  */
 public class AdminDAO {
-     private final String archivoAdmins = "Data/Admin.json";
+     private final String archivoAdmins = "C:\\Users\\ASUS\\Documents\\MARIA PAULINA\\ProyectoAula\\src\\Data\\Admin.json";
      private final Gson gson = new Gson();
      private List<Administrador> administradores;
      
       public AdminDAO() {
-        cargarAdministradores();
+        cargarAdmins();
         //cargarReservas();
         //cargarMesas();
     }
       
-       private void cargarAdministradores() {
-        try (FileReader reader = new FileReader(archivoAdmins)) {
-            administradores = gson.fromJson(reader, new TypeToken<List<Administrador>>(){}.getType());
-            if (administradores == null) {
-                administradores = new ArrayList<>();
-            }
-        } catch (IOException e) {
-            administradores = new ArrayList<>();
-        }
-    }
+        private List<Administrador> cargarAdmins() {
+       List<Administrador> lista = new ArrayList<>();
+          try {
+        Gson gson = new Gson();
+        Reader reader = new FileReader(archivoAdmins);
+        Administrador[] admins= gson.fromJson(reader, Administrador[].class);
+        lista = Arrays.asList(admins);
+        reader.close();
+              } catch (IOException e) {
+                  e.printStackTrace();
+               }
+                  return lista;
+              }
     
-       public Administrador obtenerInformacion(String idAdministrador) {
+      public Administrador obtenerInformacion(String idAdministrador) {
         for (Administrador admin : administradores) {
             if (admin.getId().equals(idAdministrador)) {
                 return admin;
             }
         }
         return null;
+    }
+      
+       public List<Administrador> listarAdmins() {
+        return cargarAdmins();
     }
 }

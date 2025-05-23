@@ -1,0 +1,57 @@
+[
+  {
+    "numero": 1,
+    "capacidad": 6,
+    "descripcion": "Mesa junto a la ventana",
+    "disponible": true
+  },
+  {
+    "numero": 2,
+    "capacidad": 5,
+    "descripcion": "Mesa en la terraza",
+    "disponible": true
+  },
+
+   {
+    "numero": 3,
+    "capacidad": 4,
+    "descripcion": "Mesa junto a la ventana",
+    "disponible": false
+  },
+   {
+    "numero": 4,
+    "capacidad": 4,
+    "descripcion": "Mesa junto a la ventana",
+    "disponible": true
+  },
+   {
+    "numero": 5,
+    "capacidad": 8,
+    "descripcion": "Mesa junto a la ventana",
+    "disponible": true
+  },
+   {
+    "numero": 6,
+    "capacidad": 6,
+    "descripcion": "Mesa junto a la ventana",
+    "disponible": false
+  },
+   {
+    "numero": 7,
+    "capacidad": 8,
+    "descripcion": "Mesa junto a la ventana",
+    "disponible": false
+  },
+   {
+    "numero": 8,
+    "capacidad": 8,
+    "descripcion": "Mesa junto a la ventana",
+    "disponible": true
+  },
+   {
+    "numero": 9,
+    "capacidad": 6,
+    "descripcion": "Mesa junto a la ventana",
+    "disponible": true
+  }
+]

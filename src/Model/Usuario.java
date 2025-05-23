@@ -25,6 +25,10 @@ public class Usuario {
         this.telefono = telefono;
         
     }
+    public Usuario() {
+    
+    }
+
     
     public String getId(){
         return id;
